@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test1">
+		<classes>
+			<class name="Udemy.MavenDemo.RestAPI_Test" />
+			<class name="Udemy.MavenDemo.Appium_Test" />
+			<!-- by excluding this file we can able to run only two test -->
+			<class name="Udemy.MavenDemo.Selnium_Test" />
+		</classes>
+	</test> <!-- Test1 -->
+</suite> <!-- Suite -->

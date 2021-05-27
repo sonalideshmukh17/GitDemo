@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="264" started-at="2021-04-30T08:37:35Z" finished-at="2021-04-30T08:37:35Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="264" started-at="2021-04-30T08:37:35Z" finished-at="2021-04-30T08:37:35Z">
+      <class name="Udemy.MavenDemo.RestAPI_Test">
+        <test-method status="PASS" signature="deletertwitter()[pri:0, instance:Udemy.MavenDemo.RestAPI_Test@31610302]" name="deletertwitter" duration-ms="58" started-at="2021-04-30T14:07:35Z" finished-at="2021-04-30T14:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletertwitter -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:Udemy.MavenDemo.RestAPI_Test@31610302]" name="postjira" duration-ms="2" started-at="2021-04-30T14:07:35Z" finished-at="2021-04-30T14:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- Udemy.MavenDemo.RestAPI_Test -->
+      <class name="Udemy.MavenDemo.Selnium_Test">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:Udemy.MavenDemo.Selnium_Test@3327bd23]" name="BrowserAutomation" duration-ms="2" started-at="2021-04-30T14:07:35Z" finished-at="2021-04-30T14:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementUi()[pri:0, instance:Udemy.MavenDemo.Selnium_Test@3327bd23]" name="elementUi" duration-ms="2" started-at="2021-04-30T14:07:35Z" finished-at="2021-04-30T14:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- Udemy.MavenDemo.Selnium_Test -->
+      <class name="Udemy.MavenDemo.Appium_Test">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:Udemy.MavenDemo.Appium_Test@a67c67e]" name="IOSApp" duration-ms="2" started-at="2021-04-30T14:07:35Z" finished-at="2021-04-30T14:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="RestAPi()[pri:0, instance:Udemy.MavenDemo.Appium_Test@a67c67e]" name="RestAPi" duration-ms="2" started-at="2021-04-30T14:07:35Z" finished-at="2021-04-30T14:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPi -->
+      </class> <!-- Udemy.MavenDemo.Appium_Test -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
